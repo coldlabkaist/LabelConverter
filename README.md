@@ -20,7 +20,7 @@ with specific video files into unified .csv files.
 LabelConverter 1.0.0 released
 
 ## Requirements
-- opencv-python==4.10.0.84
+- opencv-python>=4.10.0.84
 
 --
 
