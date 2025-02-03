@@ -1,5 +1,5 @@
 """
-- LabelConverter
+- LabelConverter -
 
 This program merges a bundle of label files in .txt format associated 
 with specific video files into unified .csv files. 
